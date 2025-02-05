@@ -43,5 +43,11 @@
   <img alt="pedro-photoshop" height="70" width="100" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroMazzeu/PedroMazzeu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroMazzeu/PedroMazzeu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroMazzeu/PedroMazzeu/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
