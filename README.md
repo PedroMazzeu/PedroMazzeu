@@ -13,26 +13,30 @@
 ##
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&theme=dark&title_color=65D37E&border_color=65D37E"
+    srcset="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&theme=dark&title_color=65D37E&border_color=65D37E&cache_seconds=1800"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&title_color=65D37E&border_color=65D37E"
+    srcset="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&title_color=65D37E&border_color=65D37E&cache_seconds=1800"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&title_color=65D37E&border_color=65D37E" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&title_color=65D37E&border_color=65D37E&cache_seconds=1800" />
 </picture>
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&theme=dark&title_color=65D37E&border_color=65D37E"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&theme=dark&title_color=65D37E&border_color=65D37E&cache_seconds=1800"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&title_color=65D37E&border_color=65D37E"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&title_color=65D37E&border_color=65D37E&cache_seconds=1800"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&title_color=65D37E&border_color=65D37E" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&title_color=65D37E&border_color=65D37E&cache_seconds=1800" />
 </picture>
+
+
+
 
 ##
 <p>
