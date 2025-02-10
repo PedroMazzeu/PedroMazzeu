@@ -1,6 +1,7 @@
-## Me chamo Pedro Henrique Mazzeu Sá 🤝
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0500FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+Pedro+Henrique+Mazzeu+Sá;I+am+from+Curitiba,+PR;+Computer+Science+Graduated)](https://git.io/typing-svg)
+<img width=1000% src="https://capsule-render.vercel.app/api?type=slice&height=30&color=000080&textBg=false&reversal=false&fontAlign=50&fontAlignY=50"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0500FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+Pedro+Henrique+Mazzeu+Sá;I+am+from+Curitiba,+PR;+Computer+Science+Graduated)](https://git.io/typing-svg)
+##
 - 🔭 Estou procurando trabalho como desenvolvedor web/Front-end.
 - 📘 Estou estudando HTML, CSS, JavaScript, Python.
 - 👇 Pode me encontrar aqui 👇:
@@ -50,5 +51,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroMazzeu/PedroMazzeu/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
+<img width=1000% src="https://capsule-render.vercel.app/api?type=slice&height=30&color=000080&textBg=false&reversal=false&fontAlign=50&fontAlignY=50&section=footer"/>
