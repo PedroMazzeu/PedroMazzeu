@@ -1,13 +1,13 @@
 ## Me chamo Pedro Henrique Mazzeu Sá 🤝
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0500FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+Pedro+Henrique+Mazzeu+Sá;I+am+from+Curitiba,+PR;+Computer+Science+Graduated)](https://git.io/typing-svg)
 
-- 📍 Curitiba-PR
-- 🔭 Estou procurando trabalho como desenvolvedor web/Front-end
-- 🌱 Estou estudando HTML, CSS, JavaScript, Python.
+- 🔭 Estou procurando trabalho como desenvolvedor web/Front-end.
+- 📘 Estou estudando HTML, CSS, JavaScript, Python.
 - 👇 Pode me encontrar aqui 👇:
   
   <div>
-    <a href="mailto:pedrohenriquemazzeus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=65D37E&color:65D37E"></a>
-    <a href="https://www.linkedin.com/in/pedro-henrique-mazzeu-sá-486376220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=65D37E&color:65D37E"></a>
+    <a href="mailto:pedrohenriquemazzeus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0500FF&color:0500FF"></a>
+    <a href="https://www.linkedin.com/in/pedro-henrique-mazzeu-sá-486376220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0500FF&color:0500FF"></a>
   </div>
 ##
 <p align="center">
