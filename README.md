@@ -3,43 +3,40 @@
 - 📍 Curitiba-PR
 - 🔭 Estou procurando trabalho como desenvolvedor web/Front-end
 - 🌱 Estou estudando HTML, CSS, JavaScript, Python.
-- 📫 Pode me encontrar aqui:
+- 👇 Pode me encontrar aqui 👇:
   
   <div>
-    <a href="https://www.linkedin.com/in/pedro-henrique-mazzeu-sá-486376220" target="_blank"><img height="35" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:pedrohenriquemazzeus@gmail.com" target="_blank"><img height="35" width="90" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:pedrohenriquemazzeus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=65D37E&color:65D37E"></a>
+    <a href="https://www.linkedin.com/in/pedro-henrique-mazzeu-sá-486376220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=65D37E&color:65D37E"></a>
   </div>
+##
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&theme=dark&title_color=0500FF&icon_color=0500FF&border_color=0500FF&cache_seconds=1800&card_width=450"
+      media="(prefers-color-scheme: dark)"/>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&title_color=0500FF&icon_color=0500FF&border_color=0500FF&cache_seconds=1800&card_width=450"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&title_color=0500FF&icon_color=0500FF&border_color=0500FF&cache_seconds=1800&card_width=450" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&theme=dark&title_color=0500FF&border_color=0500FF&cache_seconds=1800&card_width=450&card_height=180"
+      media="(prefers-color-scheme: dark)"/>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&title_color=0500FF&border_color=0500FF&cache_seconds=1800&card_width=450&card_height=180"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&title_color=0500FF&border_color=0500FF&cache_seconds=1800&card_width=450&card_height=180" />
+  </picture>
+</p>
 
 ##
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&theme=dark&title_color=65D37E&border_color=65D37E&cache_seconds=1800"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&title_color=65D37E&border_color=65D37E&cache_seconds=1800"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&title_color=65D37E&border_color=65D37E&cache_seconds=1800" />
-</picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&theme=dark&title_color=65D37E&border_color=65D37E&cache_seconds=1800"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&title_color=65D37E&border_color=65D37E&cache_seconds=1800"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMazzeu&layout=compact&title_color=65D37E&border_color=65D37E&cache_seconds=1800" />
-</picture>
-
-
-
-
-##
-<p>
+<p align="center">
   <img alt="pedro-html" height="70" width="100" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   <img alt="pedro-css" height="70" width="100" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
   <img alt="pedro-JS" height="70" width="100" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
