@@ -19,7 +19,7 @@
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&title_color=0500FF&icon_color=0500FF&border_color=0500FF&cache_seconds=1800&card_width=450"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&title_color=0500FF&icon_color=0500FF&border_color=0500FF&cache_seconds=1800&card_width=450" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PedroMazzeu&show_icons=true&title_color=0500FF&icon_color=0500FF&border_color=0500FF&cache_seconds=1800&card_width=450"/>
   </picture>
 </p>
 
